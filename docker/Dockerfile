@@ -1,4 +1,4 @@
-FROM       cyberdojofoundation/python:3.5.3
-MAINTAINER Jon Jagger <jon@jaggersoft.com>
+FROM  cyberdojofoundation/python:3.5.3
+LABEL maintainer=jon@jaggersoft.com
 
 COPY red_amber_green.rb /usr/local/bin
