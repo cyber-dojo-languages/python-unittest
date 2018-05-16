@@ -1,1 +1,2 @@
-python3 -m unittest *test*.py
+coverage3 run -m unittest *test*.py
+coverage3 report -m
