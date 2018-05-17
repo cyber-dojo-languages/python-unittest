@@ -1,2 +1,2 @@
 coverage3 run -m unittest *test*.py
-coverage3 report -m
+coverage3 report -m > coverage.txt
