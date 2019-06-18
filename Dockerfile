@@ -1,4 +1,4 @@
-FROM  cyberdojofoundation/python
+FROM cyberdojofoundation/python
 LABEL maintainer=jon@jaggersoft.com
 
 RUN pip install coverage
