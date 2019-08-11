@@ -1,5 +1,5 @@
 {
-  "display_name": "Python, unittest",
+  "display_name": "Python (3.7.4), unittest",
 
   "visible_filenames": [
     "test_hiker.py",
@@ -9,7 +9,7 @@
 
   "hidden_filenames": [ "\\.coverage" ],
 
-  "image_name": "cyberdojofoundation/python_unittest",
+  "image_name": "cyberdojofoundation/python_unittest:3.7.4-13",
 
   "filename_extension": ".py",
 
