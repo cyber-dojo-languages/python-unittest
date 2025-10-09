@@ -1,4 +1,4 @@
-FROM ghcr.io/cyber-dojo-languages/python:4d1f481
+FROM ghcr.io/cyber-dojo-languages/python:f80e023
 LABEL maintainer=jon@jaggersoft.com
 
 COPY red_amber_green.rb /usr/local/bin
