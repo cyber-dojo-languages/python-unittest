@@ -1,4 +1,4 @@
-FROM ghcr.io/cyber-dojo-languages/python:191902b
+FROM ghcr.io/cyber-dojo-languages/python:af23e02
 LABEL maintainer=jon@jaggersoft.com
 
 # A kata's test-run reads a mypy cache warmed here instead of reanalysing
